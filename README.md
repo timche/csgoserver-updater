@@ -20,6 +20,9 @@
 
 > Automatically update Counter-Strike: Global Offensive (CS:GO) Dedicated Servers running in [timche/csgo](https://github.com/timche/docker-csgo) image containers
 
+> [!WARNING]
+> This Docker image isn't maintained anymore since the release of Counter-Strike 2.
+
 ## How to Use This Image
 
 ```
